@@ -1,10 +1,10 @@
-package com.rocketfin.rocketfin;
+package com.rocketfin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RocketfinApplicationTests {
+class AppTests {
 
     @Test
     void contextLoads() {
